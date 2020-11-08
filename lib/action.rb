@@ -55,7 +55,7 @@ class Action
 
   private
 
-  OPTIONS = %w[WEST NORTH EAST SOUTH].freeze
+  OPTIONS = %w[WEST NORTH EAST SOUTH]
 
   # Prev option method
   # Find previous value in the options array

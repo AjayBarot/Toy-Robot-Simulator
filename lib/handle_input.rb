@@ -8,7 +8,7 @@ class HandleInput
 
   # Command Options
   PLACE   = /^PLACE\s+\d+\s*,\s*\d+\s*,\s*(WEST||NORTH||EAST||SOUTH)$/
-  ACTIONS = %w[MOVE LEFT RIGHT REPORT].freeze
+  ACTIONS = %w[MOVE LEFT RIGHT REPORT]
 
   def initialize(robot, table, action)
     @robot = robot
