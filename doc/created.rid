@@ -1,0 +1,16 @@
+Mon, 09 Nov 2020 04:19:47 +0530
+./simulator.rb	Mon, 09 Nov 2020 04:10:52 +0530
+./spec/robot_spec.rb	Mon, 09 Nov 2020 03:37:00 +0530
+./spec/position_spec.rb	Mon, 09 Nov 2020 03:36:36 +0530
+./spec/action_spec.rb	Mon, 09 Nov 2020 03:35:36 +0530
+./spec/table_spec.rb	Mon, 09 Nov 2020 04:07:44 +0530
+./spec/handle_input_spec.rb	Mon, 09 Nov 2020 03:55:29 +0530
+./README.md	Mon, 09 Nov 2020 02:04:43 +0530
+./lib/handle_input.rb	Mon, 09 Nov 2020 04:09:22 +0530
+./lib/robot.rb	Mon, 09 Nov 2020 04:07:27 +0530
+./lib/table.rb	Mon, 09 Nov 2020 04:07:32 +0530
+./lib/position.rb	Mon, 09 Nov 2020 04:07:22 +0530
+./lib/action.rb	Mon, 09 Nov 2020 04:14:51 +0530
+./Gemfile	Sun, 08 Nov 2020 23:41:17 +0530
+./Gemfile.lock	Sun, 08 Nov 2020 23:42:24 +0530
+./sample_command.txt	Mon, 09 Nov 2020 04:14:54 +0530
